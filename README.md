@@ -59,8 +59,9 @@
 
 ## ✔️ 이번 주 문제
 
-| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
-| :--: | :--: | :-------: | :--: | :----: | :--: |
+| 주차 | 날짜 | 문제 | 난이도 | 비고 |
+| :--: | :--: | :--: | :----: | :--: |
+| week_01 | 230713 | <p align=left> 1️⃣ [컴백홈](https://www.acmicpc.net/problem/1189) <br> 2️⃣ [MooTube (Silver)](https://www.acmicpc.net/problem/15591) <br> 3️⃣ [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | <br><br> |
 
 <br/>
 
